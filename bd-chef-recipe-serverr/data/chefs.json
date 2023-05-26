@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1",
+    "name": "Rakibul Islam",
+    "image": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "experience": "3 Years",
+    "numberOfRecipe": [
+      {
+        "recipeId": "a1",
+        "cookingMethod": "Stir-frying",
+        "rating": { "number": 5.0, "badge": "Excellent" },
+        "recipeName": "Spicy Chicken Curry",
+        "recipeImage": "https://media.istockphoto.com/id/1298602332/photo/image-of-indian-butter-chicken-tikka-curry-served-in-turquoise-blue-cooking-pan-filled-with.jpg?s=2048x2048&w=is&k=20&c=XGz0WEd-MBNtlAykB60v2OMe4bdSj7lRGAqUMs-A5UA=",
+        "description": "A delicious and flavorful chicken curry with a spicy twist.",
+        "ingredients": ["Chicken", "Onion", "Tomato", "Spices", "Garlic"],
+        "instructions": "1. Heat oil in a pan...",
+        "duration": "40 minutes"
+      },
+      {
+        "recipeId": "b1",
+        "cookingMethod": "Baking",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "recipeName": "Mango Lassi",
+        "recipeImage": "https://media.istockphoto.com/id/908734588/photo/mango-lassi-in-glasses.jpg?s=2048x2048&w=is&k=20&c=n7uKbTXS5qc4v1K3Bgd-OA5odoI-6n7PL1-C7D1wYRI=",
+        "description": "A refreshing and creamy Indian yogurt-based drink with the goodness of mango.",
+        "ingredients": ["Mango", "Yogurt", "Sugar", "Cardamom", "water"],
+        "instructions": "1. Peel and chop the mango...",
+        "duration": "10 minutes"
+      },
+      {
+        "recipeId": "c1",
+        "cookingMethod": "Grilling",
+        "rating": { "number": 4.8, "badge": "Excellent" },
+        "recipeName": "Classic Margherita Pizza",
+        "recipeImage": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "description": "A traditional Italian pizza topped with fresh tomatoes, mozzarella, and basil leaves.",
+        "ingredients": [
+          "Pizza dough",
+          "Tomatoes",
+          "Mozzarella",
+          "Basil",
+          "Garlic"
+        ],
+        "instructions": "1. Preheat the oven...",
+        "duration": "30 minutes"
+      }
+    ],
+    "likes": "100K",
+    "aboutChef": "Rakibul Islam is a chef with 3 years of experience. He has shared some delicious recipes, including Spicy Chicken Curry, Mango Lassi, and Classic Margherita Pizza. Rakibul Islam's recipes are loved by many, with a total of 100K likes. He is skilled in creating flavorful dishes and has expertise in various cuisines. Rakibul Islam's passion for cooking shines through his recipes, and he continuously explores new flavors and techniques to create culinary masterpieces. With his creative touch and dedication to his craft, Rakibul Islam continues to inspire food enthusiasts around the world."
+  },
+  {
+    "id": "2",
+    "name": "Sara Johnson",
+    "image": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "experience": "5 Years",
+    "numberOfRecipe": [
+      {
+        "recipeId": "a2",
+        "cookingMethod": "Boiling",
+        "rating": { "number": 4.1, "badge": "Excellent" },
+        "recipeName": "Lemon Garlic Shrimp Pasta",
+        "recipeImage": "https://images.unsplash.com/photo-1648421331147-9fcfab29536e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "description": "A delightful pasta dish featuring succulent shrimp tossed in a zesty lemon garlic sauce.",
+        "ingredients": [
+          "Shrimp",
+          "Pasta",
+          "Lemon",
+          "Garlic",
+          "Parmesan Cheese"
+        ],
+        "instructions": "1. Cook the pasta according to package instructions...",
+        "duration": "25 minutes"
+      },
+      {
+        "recipeId": "b2",
+        "cookingMethod": "Roasting",
+        "rating": { "number": 4.9, "badge": "Excellent" },
+        "recipeName": "Caprese Salad",
+        "recipeImage": "https://images.unsplash.com/photo-1518133683791-0b9de5a055f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "description": "A simple yet elegant salad showcasing the freshness of tomatoes, mozzarella, and basil.",
+        "ingredients": [
+          "Tomatoes",
+          "Mozzarella",
+          "Basil",
+          "Olive Oil",
+          "Balsamic Vinegar"
+        ],
+        "instructions": "1. Slice the tomatoes and mozzarella into thin rounds...",
+        "duration": "10 minutes"
+      },
+      {
+        "recipeId": "c2",
+        "cookingMethod": "Steaming",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "recipeName": "Beef Stir-Fry with Vegetables",
+        "recipeImage": "https://images.unsplash.com/photo-1626203313658-886791f37e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "description": "A flavorful stir-fry dish featuring tender beef and a colorful medley of vegetables.",
+        "ingredients": [
+          "Beef",
+          "Bell Peppers",
+          "Broccoli",
+          "Carrots",
+          "Soy Sauce"
+        ],
+        "instructions": "1. Slice the beef into thin strips...",
+        "duration": "30 minutes"
+      }
+    ],
+    "likes": "150K",
+    "aboutChef": "Sara Johnson is an experienced chef with 5 years of culinary expertise. She specializes in creating delicious and visually appealing dishes. Some of her popular recipes include Lemon Garlic Shrimp Pasta, Caprese Salad, and Beef Stir-Fry with Vegetables. Sara's recipes have garnered a total of 150K likes, and she is known for her impeccable presentation and attention to detail. With her extensive knowledge and passion for cooking, Sara continues to delight food enthusiasts with her creative and mouthwatering culinary creations."
+  },
+  {
+    "id": "3",
+    "name": "Michael Patel",
+    "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "experience": "10 Years",
+    "numberOfRecipe": [
+      {
+        "recipeId": "a3",
+        "cookingMethod": "Braising",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "recipeName": "Baked Salmon with Lemon Butter",
+        "recipeImage": "https://media.istockphoto.com/id/835123490/photo/baked-salmon-served-on-stewed-spinach-with-lemon-butter-sauce.jpg?s=2048x2048&w=is&k=20&c=lIHyXInC-UPxGP0rUmmeOiT4tA234SeCenazVqSFWP4=",
+        "description": "A delectable baked salmon dish with a tangy lemon butter sauce.",
+        "ingredients": ["Salmon", "Lemon", "Butter", "Garlic", "Dill"],
+        "instructions": "1. Preheat the oven to...",
+        "duration": "25 minutes"
+      },
+      {
+        "recipeId": "b3",
+        "cookingMethod": "Poaching",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "recipeName": "Greek Moussaka",
+        "recipeImage": "https://media.istockphoto.com/id/638064482/photo/greek-moussaka.jpg?s=2048x2048&w=is&k=20&c=jdE463f6LHc3rj2mw2VTUWWUZwDNrNTHSuyPusv5j50=",
+        "description": "A classic Greek casserole dish with layers of eggplant, ground meat, and béchamel sauce.",
+        "ingredients": [
+          "Eggplant",
+          "Ground Meat",
+          "Tomatoes",
+          "Onion",
+          "Bechamel Sauce"
+        ],
+        "instructions": "1. Slice the eggplant and...",
+        "duration": "1 hour 30 minutes"
+      },
+      {
+        "recipeId": "c3",
+        "cookingMethod": "Deep-frying",
+        "rating": { "number": 5.0, "badge": "Excellent" },
+        "recipeName": "Chocolate Lava Cake",
+        "recipeImage": "https://images.unsplash.com/photo-1553452118-621e1f860f43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "A decadent dessert with a molten chocolate center, served warm with a scoop of ice cream.",
+        "ingredients": ["Chocolate", "Butter", "Eggs", "Sugar", "Flour"],
+        "instructions": "1. Melt the chocolate and butter in a...",
+        "duration": "40 minutes"
+      }
+    ],
+    "likes": "200K",
+    "aboutChef": "Michael Patel is a highly skilled chef with 10 years of experience in the culinary industry. He is known for his mastery of flavors and exquisite plating techniques. Some of his popular recipes include Baked Salmon with Lemon Butter, Greek Moussaka, and Chocolate Lava Cake. Michael's recipes have garnered a total of 200K likes, and he is praised for his ability to create culinary masterpieces that delight the senses. With his extensive expertise and passion for cooking, Michael continues to push boundaries and create extraordinary dishes that leave a lasting impression on food enthusiasts worldwide."
+  },
+  {
+    "id": "4",
+    "name": "Juan Rodriguez",
+    "image": "https://images.unsplash.com/photo-1556940211-ea1d97e04458?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "experience": "10 Years",
+    "numberOfRecipe": [
+      {
+        "recipeId": "a4",
+        "cookingMethod": "Smoking",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "recipeName": "Carne Asada Tacos",
+        "recipeImage": "https://images.unsplash.com/photo-1648437595587-e6a8b0cdf1f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "description": "A classic Mexican dish featuring marinated and grilled steak served on soft tortillas with fresh toppings.",
+        "ingredients": [
+          "Flank Steak",
+          "Lime Juice",
+          "Garlic",
+          "Cumin",
+          "Tortillas"
+        ],
+        "instructions": "1. Marinate the flank steak in a mixture of lime juice, garlic, and cumin...",
+        "duration": "45 minutes"
+      },
+      {
+        "recipeId": "b4",
+        "cookingMethod": "Broiling",
+        "rating": { "number": 4.6, "badge": "Excellent" },
+        "recipeName": "Ceviche",
+        "recipeImage": "https://images.unsplash.com/photo-1535399831218-d5bd36d1a6b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "description": "A refreshing and tangy seafood salad made with fresh fish or shrimp, lime juice, and other seasonings.",
+        "ingredients": [
+          "Fish or Shrimp",
+          "Lime Juice",
+          "Onion",
+          "Tomato",
+          "Cilantro"
+        ],
+        "instructions": "1. Cut the fish or shrimp into small pieces...",
+        "duration": "20 minutes"
+      },
+      {
+        "recipeId": "c4",
+        "cookingMethod": "Pressure-cooking",
+        "rating": { "number": 4.4, "badge": "Excellent" },
+        "recipeName": "Arroz con Pollo",
+        "recipeImage": "https://media.istockphoto.com/id/1398357309/photo/chicken-and-rice-colombian-dish-and-tostones-from-above.jpg?s=2048x2048&w=is&k=20&c=Ev8AWpK7dGfeU2EAfk5n6SqcVzBI7RtEFeG2hEIxU38=",
+        "description": "A comforting and flavorful rice dish made with chicken, vegetables, and aromatic spices.",
+        "ingredients": [
+          "Chicken Thighs",
+          "Rice",
+          "Onion",
+          "Bell Pepper",
+          "Saffron"
+        ],
+        "instructions": "1. Season the chicken thighs with salt and pepper...",
+        "duration": "1 hour"
+      }
+    ],
+    "likes": "250K",
+    "aboutChef": "Juan Rodriguez is a seasoned chef with over 10 years of experience in creating authentic and delicious Mexican cuisine. He is known for his expertise in preparing classic dishes like Carne Asada Tacos, Ceviche, and Arroz con Pollo. Juan's recipes have earned a total of 250K likes, and he is highly regarded for his use of fresh ingredients and bold flavors. With his passion for cooking and commitment to quality, Juan continues to delight food lovers with his mouthwatering creations."
+  },
+  {
+    "id": "5",
+    "name": "Emily Johnson",
+    "image": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "experience": "8 Years",
+    "numberOfRecipe": [
+      {
+        "recipeId": "a5",
+        "cookingMethod": "Blanching",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "recipeName": "Spaghetti Bolognese",
+        "recipeImage": "https://images.unsplash.com/photo-1614777986387-015c2a89b696?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "A classic Italian pasta dish with a rich and flavorful meat sauce.",
+        "ingredients": [
+          "Ground Beef",
+          "Tomatoes",
+          "Onion",
+          "Garlic",
+          "Spaghetti"
+        ],
+        "instructions": "1. Heat olive oil in a large pan...",
+        "duration": "40 minutes"
+      },
+      {
+        "recipeId": "b5",
+        "cookingMethod": "Simmering",
+        "rating": { "number": 5.0, "badge": "Excellent" },
+        "recipeName": "Mushroom Risotto",
+        "recipeImage": "https://images.unsplash.com/photo-1609770424775-39ec362f2d94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "description": "A creamy and savory rice dish made with Arborio rice and fresh mushrooms.",
+        "ingredients": [
+          "Arborio Rice",
+          "Mushrooms",
+          "Onion",
+          "Parmesan Cheese",
+          "Chicken Broth"
+        ],
+        "instructions": "1. In a large saucepan, melt butter over medium heat...",
+        "duration": "35 minutes"
+      },
+      {
+        "recipeId": "c5",
+        "cookingMethod": "Blanching",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "recipeName": "Lemon Bars",
+        "recipeImage": "https://images.unsplash.com/photo-1528252941458-c1d19f902318?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "description": "Tangy and sweet dessert bars made with a buttery crust and a zesty lemon filling.",
+        "ingredients": ["Flour", "Butter", "Sugar", "Eggs", "Lemon Juice"],
+        "instructions": "1. Preheat the oven to 350°F...",
+        "duration": "1 hour"
+      }
+    ],
+    "likes": "180K",
+    "aboutChef": "Emily Johnson is a talented chef with 8 years of experience specializing in Italian cuisine. She has a passion for creating delicious and comforting dishes like Spaghetti Bolognese, Mushroom Risotto, and Lemon Bars. Emily's recipes have garnered a total of 180K likes, and she is known for her attention to detail and use of high-quality ingredients. With her culinary skills and creativity, Emily continues to inspire food enthusiasts with her delightful creations."
+  },
+  {
+    "id": "6",
+    "name": "Samantha Lee",
+    "image": "https://plus.unsplash.com/premium_photo-1676996177429-d9e3db36444a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "experience": "8 Years",
+    "numberOfRecipe": [
+      {
+        "recipeId": "a6",
+        "cookingMethod": "Grilling",
+        "rating": { "number": 4.1, "badge": "Excellent" },
+        "recipeName": "Thai Green Curry",
+        "recipeImage": "https://images.unsplash.com/photo-1668665772043-bdd32e348998?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=581&q=80",
+        "description": "A creamy and flavorful curry made with fresh green chilies, coconut milk, and aromatic spices.",
+        "ingredients": [
+          "Chicken",
+          "Coconut Milk",
+          "Green Chilies",
+          "Lemongrass",
+          "Fish Sauce"
+        ],
+        "instructions": "1. Heat the oil in a pan and add the green curry paste...",
+        "duration": "40 minutes"
+      },
+      {
+        "recipeId": "b6",
+        "cookingMethod": "Boiling",
+        "rating": { "number": 4.8, "badge": "Excellent" },
+        "recipeName": "Banh Mi",
+        "recipeImage": "https://images.unsplash.com/photo-1599719455360-ff0be7c4dd06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1149&q=80",
+        "description": "A Vietnamese sandwich made with a crusty baguette, savory meat, pickled vegetables, and fresh herbs.",
+        "ingredients": [
+          "Pork Belly",
+          "Baguette",
+          "Carrots",
+          "Cucumber",
+          "Cilantro"
+        ],
+        "instructions": "1. Marinate the pork belly in soy sauce, fish sauce, and sugar...",
+        "duration": "30 minutes"
+      },
+      {
+        "recipeId": "c6",
+        " cookingMethod": "Steaming",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "recipeName": "Tom Yum Soup",
+        "recipeImage": "https://media.istockphoto.com/id/914137338/photo/shrimp-soup-or-tom-yam-goongtraditional-food.jpg?s=2048x2048&w=is&k=20&c=usnuIHAT3NZDyuMO0MwyVBiLz4wzIAFOMlzX43mCasc=",
+        "description": "A spicy and sour soup made with shrimp, lemongrass, galangal, and kaffir lime leaves.",
+        "ingredients": [
+          "Shrimp",
+          "Lemongrass",
+          "Galangal",
+          "Kaffir Lime Leaves",
+          "Chilies"
+        ],
+        "instructions": "1. Boil the water in a pot and add the lemongrass, galangal, and kaffir lime leaves...",
+        "duration": "25 minutes"
+      }
+    ],
+    "likes": "120K",
+    "aboutChef": "Samantha Lee is a talented chef with 8 years of experience in creating delicious Asian cuisine. She specializes in preparing classic dishes like Thai Green Curry, Banh Mi, and Tom Yum Soup. Samantha's recipes have earned a total of 120K likes, and she is highly regarded for her use of fresh ingredients and bold flavors. With her passion for cooking and commitment to quality, Samantha continues to impress food lovers with her mouthwatering creations."
+  }
+]
