@@ -1,0 +1,35 @@
+.skills-description .watch-time {
+  border: 1px solid gray;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  color: #da722c;
+  width: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+  .higher-skills {
+    flex-direction: column;
+  }
+  .higher-skills img {
+    width: 326px !important;
+    height: 400px !important;
+    margin-left: 25px !important;
+  }
+  .higher-skills .all-recipe {
+    top: 830px;
+    left: 250px !important;
+  }
+  .skills-description .watch-time {
+    width: 100px;
+  }
+
+  .watch-time .watch-text {
+    font-size: 12px !important;
+    margin-top: 9px !important;
+  }
+
+  .watch-time .watch-font {
+    font-size: 20px !important;
+  }
+}

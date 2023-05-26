@@ -1,0 +1,27 @@
+@media only screen and (max-width: 600px) {
+  .cooking-classes {
+    width: 358px !important;
+    margin-left: 7px !important;
+  }
+  .card-details {
+    margin-right: 10px !important;
+  }
+  .card-details .card-title {
+    font-size: 28px !important;
+    line-height: 28px !important;
+    margin-bottom: 10px !important;
+  }
+  .card-details .card-text {
+    font-size: 14px !important;
+    line-height: 17px !important;
+    margin-bottom: 10px !important;
+  }
+  .register-btn-on-cooking-class button {
+    width: 150px !important;
+    font-size: 15px !important;
+    margin-top: 0 !important;
+  }
+  .lazyload-wrapper img {
+    padding-right: 0px !important;
+  }
+}

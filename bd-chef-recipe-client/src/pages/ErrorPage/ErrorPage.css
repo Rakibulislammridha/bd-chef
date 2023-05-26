@@ -1,0 +1,36 @@
+.error-container {
+  font-family: "playfairDisplay";
+}
+.error-container img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
+.error-title {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.error-title h1 {
+  font-size: 50px;
+  color: #da722c;
+  font: bold;
+}
+.error-btn {
+  color: #ffff;
+  width: 210px;
+  height: 60px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background: #da722c;
+  font-size: 20px;
+  font-weight: 400;
+  cursor: pointer;
+  margin-top: 30px;
+}

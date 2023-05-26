@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px) {
+  .single-chef-card {
+    margin-left: 0px !important;
+  }
+
+  .lazyload-wrapper {
+    margin-right: 33px;
+  }
+
+  .lazyload-wrapper img {
+    width: 333px !important;
+    height: 300px !important;
+    object-fit: cover !important;
+    border-radius: 10px !important;
+    margin-bottom: 10px !important;
+    padding-right: 8px !important;
+  }
+}
